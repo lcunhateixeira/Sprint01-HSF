@@ -1,4 +1,4 @@
-# Minha API
+# Hospital Sem Fila (HSF-API)
 
 Este MVP faz parte do Sprint 01 da Disciplina **Desenvolvimento Full Stack Básico** 
 
